@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# Configuration
+# Getting Started
 
 {% include list.liquid %}
