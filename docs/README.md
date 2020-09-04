@@ -5,6 +5,7 @@ If you would like to support the on-going development of this, [please buy me a 
 <br />
 
 ##  Problem Definition
+
 Every organization has to answer the question how do we document and support our IT systems?
 
 At most companies you find a disorganized, duplicated, dis-joined, incoherent, semi complete, inaccessible, unmaintained wasteland of share-point sites, word documents, tooling, and wiki's.

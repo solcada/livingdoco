@@ -2,7 +2,7 @@
 sort: 2
 ---
 
- ## Part 2 - Define your logical environments
+ ## Define your logical environments
 
 In most companies you have multiple different environments for the purposes of development and testing.  In an ideal world every environment has minimal deviation and propagating a feature through environments is timely.  However, most companies have budget constraints, complexity constraints and release speed constraints.  This results in the need for different environments which serve different purposes such as Quality Assurance, Integration and Development.
 

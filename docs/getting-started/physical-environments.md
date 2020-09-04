@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## Part 4 - Define your physical environments and versioning your software
+## Define your physical environments and versioning your software
 
 Now that we have a logical map of some of our Applications we can start documenting their physical deployments.  Operations, Developers, Testers and Architects are interesting in the infrastructure.
 

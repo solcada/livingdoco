@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-## Part 3 - Inventory your Databases
+## Inventory your Databases
 
 Your organisation is going to have systems of records.  They are databases, fileshares, blob storage where information is persisted.
 Start anywhere and capture a list of Databases at your organisation.
