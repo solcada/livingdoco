@@ -4,8 +4,6 @@ A guide to organisational information management using a Living Documentation ap
 If you would like to support the on-going development of this, [please buy me a coffee](https://www.buymeacoffee.com/andrewd)
 <br />
 
-pages 
-
 ##  Problem Definition
 Every organization has to answer the question how do we document and support our IT systems?
 
@@ -24,6 +22,3 @@ One of the approaches I have used for the last 10 years is what I refer to as â€
 To document, model and support systems at an organisation the meta-model needs to address the audience (business analysis, developer, operations, architecture), it also needs to be at the right level of granularity (too detailed and it is technical noise, too high level and it is abstract waffle).  Below is a convention based approach to documenting the IT systems at a company.
 
 Below is a tutorial of how to categorize and structure your organizations IT information using the Living Documentation approach I have been using since 2010.  Each section will have a 'rationale' link to help explain why the approach works.
-
-
-
