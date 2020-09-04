@@ -2,7 +2,7 @@
 sort: 5
 ---
 
-## Set up an Area for Issues, Risks and Decisions
+## Issues, risks and decisions
 
 "Until you make the unconscious conscious, it will direct your life and you will call it fate." - Carl Jung.
 

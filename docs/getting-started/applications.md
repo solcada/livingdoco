@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## Inventory your applications and their dependencies
+## Application inventory
 
 ### Defining your applications
 We are going to define an Application as something which is running in an environment and can be packaged and versioned.  

@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-## Inventory your Databases
+## Databases
 
 Your organisation is going to have systems of records.  They are databases, fileshares, blob storage where information is persisted.
 Start anywhere and capture a list of Databases at your organisation.
@@ -17,4 +17,3 @@ A link to other Application pages which consume this Database.  e.g The Customer
 
 #### Source Control
 If this Database is managed through source control is versioned when changes are deployed, link to the repository that contains the changes.
-
